@@ -1,5 +1,4 @@
 ## 👋 Hey, I'm Jay
-🔭 I’m currently working as SDE-2 at Tezsure<br>
 
 [![](https://visitcount.itsvg.in/api?id=JAYDARANIYA&icon=2&color=9)](https://visitcount.itsvg.in)
 
