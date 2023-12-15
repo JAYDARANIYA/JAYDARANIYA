@@ -1,6 +1,6 @@
 ## 👋 Hey, I'm Jay
 
-[![](https://visitcount.itsvg.in/api?id=JAYDARANIYA&icon=2&color=9)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=JAYDARANIYA&label=Views&color=blue)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jay-daraniya-786b68157) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/jay_daraniya) 
