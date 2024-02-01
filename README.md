@@ -21,6 +21,13 @@
 ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
+
 ## 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=JAYDARANIYA&theme=tokyonight&hide_border=false)<br/>
+<a href="">
+  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=JAYDARANIYA&theme=tokyonight"/>
+</a>
+
+</br>
+</br>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JAYDARANIYA&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
