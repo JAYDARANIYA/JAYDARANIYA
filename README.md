@@ -7,6 +7,7 @@
 
 ## 💻 Technologies:
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) 
+![Rust](https://img.shields.io/badge/nest.js-%23000000.svg?style=for-the-badge&logo=nest.js&logoColor=white) 
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/-ethereum-green?style=for-the-badge&logo=solidity&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) 
