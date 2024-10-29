@@ -25,7 +25,7 @@
 
 ## 📊 GitHub Stats:
 <a href="">
-  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=JAYDARANIYA&theme=tokyonight"/>
+  <img align="center" src="https://streak-stats.demolab.com?user=JAYDARANIYA&theme=tokyonight"/>
 </a>
 
 </br>
